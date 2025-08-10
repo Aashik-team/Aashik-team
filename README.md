@@ -15,7 +15,7 @@
 
 ###  Tech Stack
 - **Languages:** Python, JavaScript, HTML/CSS  
-- **Tools & Frameworks:** Git, VS Code, FastAPI, Django (add/remove as per your expertise)
+- **Tools & Frameworks:** Git, VS Code, FastAPI, Django 
 
 ---
 
