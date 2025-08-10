@@ -1,4 +1,4 @@
-<h1 align="center">💖 𝐀𝐚𝐬𝐡𝐢𝐤 ꭙ 𝐓ᴇᴀᴍ 💖</h1>
+<h1 align="center"> 𝐀𝐚𝐬𝐡𝐢𝐤 ꭙ 𝐓ᴇᴀᴍ </h1>
 <p align="center">
   <b>Welcome to my GitHub Profile!</b><br>
   <i>Coder | Learner | Creator</i>
